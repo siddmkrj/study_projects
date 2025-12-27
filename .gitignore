@@ -7,3 +7,15 @@ models/
 output/
 
 *.ipynb_checkpoints
+
+.DS_Store
+.vscode/
+
+# Ignore environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
